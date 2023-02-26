@@ -13,4 +13,4 @@ published: true
 
 ### Связаться со мной
 
-[email@domain.com](mailto:email@domain.com)
+[Написать на электронную почту](mailto:tamarazapolskaja@gmail.com)
